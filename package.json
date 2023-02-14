@@ -5,7 +5,7 @@
   "homepage": "https://github.com/AdamStrzyzewski/test-parcel",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url test-parcel"
+    "build": "parcel build src/*.html --public-url /test-parcel/"
   },
   "repository": {
     "type": "git",
